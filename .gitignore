@@ -1,0 +1,8 @@
+*
+!*.*
+!*/
+
+!Dockerfile
+
+*.json
+*.sqlite
